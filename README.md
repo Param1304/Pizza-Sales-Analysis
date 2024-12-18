@@ -2,7 +2,7 @@ Welcome to the Pizza Sales Analysis using SQL project! This repository contains 
 
 The analysis is structured to answer a variety of questions, ranging from basic insights to advanced analytics, making it suitable for SQL enthusiasts at all levels. By examining this data, we aim to understand customer behavior, sales distribution, and revenue drivers, which can help optimize operations in a pizza business.
 
-##Basic:
+## Basic:
 
 Retrieve the total number of orders placed.
 [Q 1](https://github.com/Param1304/Pizza-Sales-Analysis/blob/main/Q1.sql)
@@ -19,7 +19,7 @@ Identify the most common pizza size ordered.
 List the top 5 most ordered pizza types along with their quantities.
 [Q 5](https://github.com/Param1304/Pizza-Sales-Analysis/blob/main/Q5.sql)
 
-##Intermediate:
+## Intermediate:
 
 Join the necessary tables to find the total quantity of each pizza category ordered.
 [Q I 1](https://github.com/Param1304/Pizza-Sales-Analysis/blob/main/Q_I_1.sql)
@@ -36,7 +36,7 @@ Group the orders by date and calculate the average number of pizzas ordered per 
 Determine the top 3 most ordered pizza types based on revenue.
 [Q I 5](https://github.com/Param1304/Pizza-Sales-Analysis/blob/main/Q_I_5.sql)
 
-##Advanced:
+## Advanced:
 
 Calculate the percentage contribution of each pizza type to total revenue.
 [Q A 1](https://github.com/Param1304/Pizza-Sales-Analysis/blob/main/Q_A1.sql)
