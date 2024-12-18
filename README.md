@@ -1,3 +1,7 @@
+Welcome to the Pizza Sales Analysis using SQL project! This repository contains an analysis of pizza sales data using structured SQL queries to derive meaningful insights. The dataset includes information about pizza orders, details of each order, pizza types, and pricing, making it an excellent case study for exploring sales trends, customer preferences, and revenue generation in the pizza industry.
+
+The analysis is structured to answer a variety of questions, ranging from basic insights to advanced analytics, making it suitable for SQL enthusiasts at all levels. By examining this data, we aim to understand customer behavior, sales distribution, and revenue drivers, which can help optimize operations in a pizza business.
+
 Basic:
 
 Retrieve the total number of orders placed.
