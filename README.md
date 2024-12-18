@@ -1,5 +1,7 @@
 Basic:
+
 Retrieve the total number of orders placed.
+[Q 1](https://github.com/Param1304/Pizza-Sales-Analysis/blob/main/Q1.sql)
 
 Calculate the total revenue generated from pizza sales.
 
